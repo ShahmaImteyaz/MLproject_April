@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLproject-April
+Version: 0.0.1
+Author: Shahma Imteyaz
+Author-email: imteyaz.shahma93@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
